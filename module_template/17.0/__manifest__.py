@@ -1,7 +1,7 @@
 
 {
     'name': '___module_name___',
-    'version': '16.0.1.0',
+    'version': '17.0.1.0',
     'author': 'Marc Wimmer (marc@zebroo.de)',
     'depends': ['base'],
     'data': [],
