@@ -4,7 +4,7 @@
     'name': 'module_tools',
     'description': '',
     'version': '1.0',
-    'author': 'Marc Wimmer (marc@itewimmer.de)',
+    'author': 'Marc Wimmer (marc@zebroo.de)',
     'depends': ['base'],
     'demo_xml': [],
     'conflicts': [],

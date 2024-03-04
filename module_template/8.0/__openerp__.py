@@ -3,7 +3,7 @@
     'name': '___module_name___', 
     'description': '',
     'version': '1.0',
-    'author': 'Marc Wimmer (marc@itewimmer.de)',
+    'author': 'Marc Wimmer (marc@zebroo.de)',
     'category': 'uncategorized',
     'depends': ['base'],
     'demo_xml': [],

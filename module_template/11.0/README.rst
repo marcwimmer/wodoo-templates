@@ -9,5 +9,5 @@ description
 Authors
 ------------
 
-* Marc Wimmer <marc@itewimmer.de>
+* Marc Wimmer <marc@zebroo.de>
 

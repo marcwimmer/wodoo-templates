@@ -2,7 +2,7 @@
 {
     'name': '___module_name___',
     'version': '15.0.1.0',
-    'author': 'Marc Wimmer (marc@itewimmer.de)',
+    'author': 'Marc Wimmer (marc@zebroo.de)',
     'depends': ['base'],
     'data': [],
     "external_dependencies": {"python": [], "bin": []},

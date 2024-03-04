@@ -3,7 +3,7 @@
     'auto_install': False,
     'name': '___module_name___',
     'version': '12.0.1.0',
-    'author': 'Marc Wimmer (marc@itewimmer.de)',
+    'author': 'Marc Wimmer (marc@zebroo.de)',
     'depends': ['base'],
     'demo_xml': [],
     'data': [],
