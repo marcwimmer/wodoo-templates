@@ -23,15 +23,7 @@ repos:
     patches:
       - patches/addons_OCA/queue
 
-  - path: "addons_tools/anonymize"
-    url: https://github.com/marcwimmer/odoo-anonymize.git
-    branch: ${VERSION}
-    type: integrated
-
-  - path: "addons_tools/cleardb"
-    url: https://github.com/marcwimmer/odoo-cleardb.git
-    branch: ${VERSION}
-    type: integrated
+  
 
   # - path: "addons_OCA/account-financial-tools"
   #   url: https://github.com/OCA/account-financial-tools
