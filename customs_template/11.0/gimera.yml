@@ -1,6 +1,6 @@
 common:
   vars:
-    VERSION: 14.0
+    VERSION: 11.0
 repos:
   - path: odoo
     url: https://github.com/odoo/odoo

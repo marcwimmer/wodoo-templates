@@ -1,6 +1,6 @@
 {
     "install": [
-        "module_tools",
+        "crm",
     ],
     "uninstall": [
     ],
