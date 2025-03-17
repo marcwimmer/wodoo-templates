@@ -7,5 +7,5 @@
 # def uninstall_hook(cr, registry):
     # pass
 
-from .models import *
-# from .tests import *
+from . import models
+#from . import tests
